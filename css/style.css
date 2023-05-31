@@ -71,6 +71,10 @@ p, .main-infos div, .main-mention div {
 	color: white;
 }
 
+.minus {
+	font-size: 0.5em;
+}
+
 @media (min-width: 640px) {
 	body {
 		margin-left: 15%;
