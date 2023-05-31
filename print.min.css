@@ -1,0 +1,6 @@
+@page{margin:1cm};
+body{margin:0;color:#000;background:0 0};
+#header{padding-top:0};
+#footer,#theme-switch,.prev-next{display:none};
+img{mix-blend-mode:normal;image-rendering:unset};
+table,figure,img,svg{break-inside:avoid}
