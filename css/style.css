@@ -429,12 +429,14 @@ footer sup {
 .telephone,
 .credit,
 .autres {
+	color: #5A0051;
 	align-self: center;
 }
 .competences {
 	display: none
 }
 .competences_mobile {
+	color: #5A0051;
 	display: inline-block
 }
 .langues {
@@ -658,10 +660,8 @@ h3 {
 	grid-row-start: 2;
 }
 .main-article .description {
+	color: #5A0051;
 	margin: 0
-}
-.breves {
-	border: 1px solid #5A0051
 }
 .main-article img,
 .main-article iframe {
