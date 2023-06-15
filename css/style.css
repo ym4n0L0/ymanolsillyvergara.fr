@@ -65,7 +65,7 @@ p, .main-infos div, .main-mention div {
  border-radius: 0.3em;
  padding: 2px 3px 0px 4px;
  display: inline-block;
- box-shadow: 0px 0px 10px 0px rgba(132, 0, 117, 0.20);
+ box-shadow: 0px 0px 10px 0px rgba(132, 0, 117, 0.15);
 }
 .lien:hover {
 	background: #5A0051;
@@ -148,7 +148,7 @@ h2 {
 	border-radius: 0.3em;
 	user-select: none;
 	transition: 0.25s;
-	box-shadow: 0px 0px 15px 0px rgba(132, 0, 117, 0.25);
+	box-shadow: 0px 0px 15px 0px rgba(132, 0, 117, 0.15);
 }
 .h-div a:hover {
 	color: #5A0051;
